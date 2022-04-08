@@ -1,0 +1,5 @@
+STEPS TO EXECUTE CODE:
+
+Run the code in Jupyter Notebook.
+Check for any errors and debug the code if any error is found
+Run the code again.
